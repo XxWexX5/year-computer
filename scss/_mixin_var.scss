@@ -1,0 +1,22 @@
+$cor-1: #000; // Black
+$cor-2: #b9202d; // Red hard
+$cor-3: #FFF; // White
+$cor-4: #ef4b41; // Red soft
+
+@mixin titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-size: 18px;
+    font-weight: bold;
+    color: $cor-2;
+    text-align: center;
+    margin: 30px 0;
+}
+
+@mixin texto {
+    font-family: Arial, Helvetica, sans-serif;
+    color: $cor-3;
+    font-size: 14px;
+    margin-bottom: 20px;
+}

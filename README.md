@@ -1,7 +1,7 @@
 # Year Computer
 By Wevison Ramalho.
 
-[![image-github.png](https://i.postimg.cc/KjNzYdfx/image-github.png)](https://postimg.cc/H8rHZvFh)
+[![image-github.png](https://i.postimg.cc/sgsVh5Pj/image-github.png)](https://postimg.cc/2V9RpbXM)
 
 https://react-year-computer.vercel.app
 
